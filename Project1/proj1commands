@@ -1,0 +1,7 @@
+git clone Computational Social Science Projects
+MkDir Project 1 
+touch proj1commands
+nano project1commands
+git add .
+git commit -m "added"
+git push
